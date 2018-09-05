@@ -1,0 +1,395 @@
+{
+    "results": [
+                {
+                "vote_count": 68,
+                "id": 489931,
+                "video": false,
+                "vote_average": 7.1,
+                "title": "American Animals",
+                "popularity": 19.329,
+                "poster_path": "/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j.jpg",
+                "original_language": "en",
+                "original_title": "American Animals",
+                "genre_ids": [
+                              18,
+                              80
+                              ],
+                "backdrop_path": "/3ccBOsbVpgwN9K5whd2UB9ACebG.jpg",
+                "adult": false,
+                "overview": "Lexington, Kentucky, 2004. Four young men attempt to execute one of the most audacious art heists in the history of the United States.",
+                "release_date": "2018-06-01"
+                },
+                {
+                "vote_count": 57,
+                "id": 500475,
+                "video": false,
+                "vote_average": 6.7,
+                "title": "SuperFly",
+                "popularity": 18.407,
+                "poster_path": "/gGk9H5PVpWzbsYkmnBeKevQkwwf.jpg",
+                "original_language": "en",
+                "original_title": "SuperFly",
+                "genre_ids": [
+                              28,
+                              80,
+                              53
+                              ],
+                "backdrop_path": "/jqoGbSNsl5aO3JzeoWEf6EDoncD.jpg",
+                "adult": false,
+                "overview": "Career criminal Youngblood Priest wants out of the Atlanta drug scene, but as he ramps up sales, one little slip up threatens to bring the whole operation down before he can make his exit.",
+                "release_date": "2018-06-13"
+                },
+                {
+                "vote_count": 11,
+                "id": 493551,
+                "video": false,
+                "vote_average": 7.4,
+                "title": "Operation Finale",
+                "popularity": 18.366,
+                "poster_path": "/uitoc4tDFFotLSs1vJBon52IZIx.jpg",
+                "original_language": "en",
+                "original_title": "Operation Finale",
+                "genre_ids": [
+                              18,
+                              36
+                              ],
+                "backdrop_path": "/7diKA3XyLUB9pV6oI9FznQ5lv66.jpg",
+                "adult": false,
+                "overview": "15 years after the end of  World War II, a team of Israeli secret agents is assigned to track down Adolf Eichmann, the infamous Nazi architect of the Holocaust, reported hiding in Argentina, and smuggle him back to Israel for trial.  A true story.",
+                "release_date": "2018-08-29"
+                },
+                {
+                "vote_count": 34,
+                "id": 425505,
+                "video": false,
+                "vote_average": 6.8,
+                "title": "Kin",
+                "popularity": 18.184,
+                "poster_path": "/cFDcj29pWfcRAxEWbUptwQQbj9o.jpg",
+                "original_language": "en",
+                "original_title": "Kin",
+                "genre_ids": [
+                              878,
+                              28
+                              ],
+                "backdrop_path": "/dQi56qgM8GYFUHqJqQE4dgSl56y.jpg",
+                "adult": false,
+                "overview": "Co-directors Jonathan Baker and Josh Baker’s Sci-Fi action thriller features James Franco, Zoe Kravitz, and Dennis Quaid. A young boy (Myles Truitt) finds a powerful otherworldly weapon, which he uses to save his older adoptive brother (Jack Reynor) from a crew of thugs. Before long, the two of them are also pursued by federal agents and mysterious mercenaries aiming to reclaim their asset.",
+                "release_date": "2018-08-29"
+                },
+                {
+                "vote_count": 64,
+                "id": 474335,
+                "video": false,
+                "vote_average": 7.3,
+                "title": "Uncle Drew",
+                "popularity": 18.025,
+                "poster_path": "/9lCNsfc1OEDNceGJTjfE0kBknEW.jpg",
+                "original_language": "en",
+                "original_title": "Uncle Drew",
+                "genre_ids": [
+                              35
+                              ],
+                "backdrop_path": "/604nkQ0s7ND7nrQorF0v9rSDpdf.jpg",
+                "adult": false,
+                "overview": "Uncle Drew recruits a squad of older basketball players to return to the court to compete in a tournament.",
+                "release_date": "2018-06-27"
+                },
+                {
+                "vote_count": 4594,
+                "id": 62,
+                "video": false,
+                "vote_average": 8,
+                "title": "2001: A Space Odyssey",
+                "popularity": 18.018,
+                "poster_path": "/90T7b2LIrL07ndYQBmSm09yqVEH.jpg",
+                "original_language": "en",
+                "original_title": "2001: A Space Odyssey",
+                "genre_ids": [
+                              878,
+                              9648,
+                              12
+                              ],
+                "backdrop_path": "/6gyZF4SeifiUUYDELkCS8nOqsu2.jpg",
+                "adult": false,
+                "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+                "release_date": "1968-04-09"
+                },
+                {
+                "vote_count": 0,
+                "id": 522417,
+                "video": false,
+                "vote_average": 0,
+                "title": "Scorpion King: Book of Souls",
+                "popularity": 16.674,
+                "poster_path": "/mSviUMejPmerwoQxdj7wR4Ky1Fd.jpg",
+                "original_language": "en",
+                "original_title": "Scorpion King: Book of Souls",
+                "genre_ids": [
+                              12,
+                              28
+                              ],
+                "backdrop_path": null,
+                "adult": false,
+                "overview": "The Scorpion King teams up with a female warrior named Tala, who is the sister of The Nubian King. Together they search for a legendary relic known as The Book of Souls, which will allow them to put an end to an evil warlord.",
+                "release_date": "2018-09-04"
+                },
+                {
+                "vote_count": 0,
+                "id": 540375,
+                "video": false,
+                "vote_average": 0,
+                "title": "The Barn",
+                "popularity": 16.342,
+                "poster_path": "/j7fAx8DMom3cNTHU9xh7Rz8M4qA.jpg",
+                "original_language": "en",
+                "original_title": "The Barn",
+                "genre_ids": [
+                              80,
+                              27,
+                              9648
+                              ],
+                "backdrop_path": null,
+                "adult": false,
+                "overview": "A serial killer strikes Sugar Grove, Virginia. A rising journalist comes to town to cover the story : her investigation will soon lead her to the town's darkest secret, at her own risks.",
+                "release_date": "2018-09-04"
+                },
+                {
+                "vote_count": 37,
+                "id": 412988,
+                "video": false,
+                "vote_average": 5.4,
+                "title": "The Happytime Murders",
+                "popularity": 16.18,
+                "poster_path": "/rWxkur51srfVnMn2QOFjE7mbq6h.jpg",
+                "original_language": "en",
+                "original_title": "The Happytime Murders",
+                "genre_ids": [
+                              28,
+                              35,
+                              80
+                              ],
+                "backdrop_path": "/nMEGEPQIyS30KIJpZETGpluFquJ.jpg",
+                "adult": false,
+                "overview": "When the puppet cast of a '90s children's TV show begins to get murdered one by one, a disgraced LAPD detective-turned-private eye puppet takes on the case.",
+                "release_date": "2018-08-22"
+                },
+                {
+                "vote_count": 10,
+                "id": 438590,
+                "video": false,
+                "vote_average": 3.1,
+                "title": "A.X.L.",
+                "popularity": 15.944,
+                "poster_path": "/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg",
+                "original_language": "en",
+                "original_title": "A.X.L.",
+                "genre_ids": [
+                              878
+                              ],
+                "backdrop_path": "/l1nYo0yzKjf84atnBDbx0do16vQ.jpg",
+                "adult": false,
+                "overview": "The life of a teenage boy is forever altered by a chance encounter with cutting edge military technology.",
+                "release_date": "2018-08-16"
+                },
+                {
+                "vote_count": 65,
+                "id": 340674,
+                "video": false,
+                "vote_average": 5,
+                "title": "Dark Crimes",
+                "popularity": 15.674,
+                "poster_path": "/bEwK1r4pmJ9huEjqrZf73NXJvFy.jpg",
+                "original_language": "en",
+                "original_title": "Dark Crimes",
+                "genre_ids": [
+                              28,
+                              80,
+                              53,
+                              18
+                              ],
+                "backdrop_path": "/gGmM0oNYOZilkvm3vJM5meWMvs5.jpg",
+                "adult": false,
+                "overview": "A hard-boiled detective becomes suspicious of an author when the incidents described in his hit novel resemble the inner workings of an unsolved murder.",
+                "release_date": "2018-09-06"
+                },
+                {
+                "vote_count": 0,
+                "id": 362676,
+                "video": false,
+                "vote_average": 0,
+                "title": "Douglas Brown",
+                "popularity": 15.443,
+                "poster_path": "/1FIgfUAeh1jiTVrEbqtQIrlLgfU.jpg",
+                "original_language": "en",
+                "original_title": "Douglas Brown",
+                "genre_ids": [
+                              53
+                              ],
+                "backdrop_path": "/cebUW06rhFbiKgYeBqH9dB8iEgV.jpg",
+                "adult": false,
+                "overview": "Douglas Brown is a movie star in trouble. And there isn't a writer in town who can help him. Max O’Leary dreams of making a killing at the box office, but when he gets involved with screen legend Douglas Brown he’s put on a furious ride to chaos in this head spinning comedic thriller.",
+                "release_date": "2018-09-04"
+                },
+                {
+                "vote_count": 243,
+                "id": 430040,
+                "video": false,
+                "vote_average": 5.4,
+                "title": "The Hurricane Heist",
+                "popularity": 15.154,
+                "poster_path": "/wh1f7peigW0qUXXwynwVAt7axZd.jpg",
+                "original_language": "en",
+                "original_title": "The Hurricane Heist",
+                "genre_ids": [
+                              28,
+                              80,
+                              53
+                              ],
+                "backdrop_path": "/3ZQRLuXNTbewOHDfxF51fy74gh4.jpg",
+                "adult": false,
+                "overview": "Thieves attempt a massive heist against the U.S. Treasury as a Category 5 hurricane approaches one of its Mint facilities.",
+                "release_date": "2018-02-01"
+                },
+                {
+                "vote_count": 91,
+                "id": 470878,
+                "video": false,
+                "vote_average": 7.6,
+                "title": "I Can Only Imagine",
+                "popularity": 14.426,
+                "poster_path": "/veZszwMZu8d3WMU6TJX9sV5w1Y4.jpg",
+                "original_language": "en",
+                "original_title": "I Can Only Imagine",
+                "genre_ids": [
+                              18,
+                              10751,
+                              10402
+                              ],
+                "backdrop_path": "/9XjNaS2S0RJfjbUPDAzILPprU3r.jpg",
+                "adult": false,
+                "overview": "Growing up in Texas, Bart Millard suffers physical and emotional abuse at the hands of his father. His childhood and relationship with his dad inspires him to write the hit song \"I Can Only Imagine\" as singer of the Christian band MercyMe.",
+                "release_date": "2018-03-08"
+                },
+                {
+                "vote_count": 23,
+                "id": 461992,
+                "video": false,
+                "vote_average": 6.2,
+                "title": "Hostile",
+                "popularity": 14.426,
+                "poster_path": "/xnvFRg5TxGYIMKQJjA41lv0RNcg.jpg",
+                "original_language": "en",
+                "original_title": "Hostile",
+                "genre_ids": [
+                              18,
+                              27,
+                              10749
+                              ],
+                "backdrop_path": "/7CkWjCYTDs33qJAUvhxQ92D7S1N.jpg",
+                "adult": false,
+                "overview": "Juliette, a lone survivor of an apocalyptic era, fights to survive against hunger, thirst, a broken leg and strange disturbing creatures that only comes out at nighttime.",
+                "release_date": "2018-03-08"
+                },
+                {
+                "vote_count": 49,
+                "id": 448776,
+                "video": false,
+                "vote_average": 6.7,
+                "title": "A Prayer Before Dawn",
+                "popularity": 14.346,
+                "poster_path": "/73KrcLh1DpnBP3HwGpqoUUwKWF4.jpg",
+                "original_language": "en",
+                "original_title": "A Prayer Before Dawn",
+                "genre_ids": [
+                              18,
+                              28,
+                              80
+                              ],
+                "backdrop_path": "/tyaVwOLIpAzZFP0qmXm2VZhYkxZ.jpg",
+                "adult": false,
+                "overview": "The true story of Billy Moore, an English boxer incarcerated in Thailand's most notorious prison. Thrown into a world of drugs and violence, he finds his best chance to escape is to fight his way out in Muay Thai tournaments.",
+                "release_date": "2018-06-20"
+                },
+                {
+                "vote_count": 1,
+                "id": 375588,
+                "video": false,
+                "vote_average": 0,
+                "title": "Robin Hood",
+                "popularity": 14.267,
+                "poster_path": "/xXPnPpV7MnYdybL8XsrOWzOPlqF.jpg",
+                "original_language": "en",
+                "original_title": "Robin Hood",
+                "genre_ids": [
+                              12
+                              ],
+                "backdrop_path": "/AuA50D7T7S7OEVcGo0ZKaMhERn0.jpg",
+                "adult": false,
+                "overview": "A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.",
+                "release_date": "2018-09-01"
+                },
+                {
+                "vote_count": 49,
+                "id": 474395,
+                "video": false,
+                "vote_average": 7.3,
+                "title": "Teen Titans Go! To the Movies",
+                "popularity": 13.808,
+                "poster_path": "/AiEuNw3Lg0PIPNUQ3PIWWElwGcY.jpg",
+                "original_language": "en",
+                "original_title": "Teen Titans Go! To the Movies",
+                "genre_ids": [
+                              10751,
+                              16
+                              ],
+                "backdrop_path": "/1SjsVcGO2T2cCrhlhXi8gxQl7jx.jpg",
+                "adult": false,
+                "overview": "It seems that all the major superheroes out there are starring in their own movies -- all but the Teen Titans. Robin is bound and determined to remedy that situation by becoming a star instead of a sidekick. With a few madcap ideas and a song in their hearts, the Teen Titans head to Hollywood to fulfill their dreams. Things soon go awry, however, when a supervillain plans to take over the planet -- putting the very fate of the young heroes on the line.",
+                "release_date": "2018-07-27"
+                },
+                {
+                "vote_count": 0,
+                "id": 533246,
+                "video": false,
+                "vote_average": 0,
+                "title": "Photo de famille",
+                "popularity": 13.74,
+                "poster_path": "/q2hHvgu0mCo6Q9xT8DleKEabUUW.jpg",
+                "original_language": "fr",
+                "original_title": "Photo de famille",
+                "genre_ids": [
+                              35
+                              ],
+                "backdrop_path": "/yxKqniK80EFeNtg5kE42IufRzFC.jpg",
+                "adult": false,
+                "overview": "",
+                "release_date": "2018-09-05"
+                },
+                {
+                "vote_count": 0,
+                "id": 537976,
+                "video": false,
+                "vote_average": 0,
+                "title": "American Dharma",
+                "popularity": 13.681,
+                "poster_path": null,
+                "original_language": "en",
+                "original_title": "American Dharma",
+                "genre_ids": [
+                              99
+                              ],
+                "backdrop_path": null,
+                "adult": false,
+                "overview": "A portrait of controversial Breitbart honcho and Donald Trump advisor, Stephen K. Bannon.",
+                "release_date": "2018-09-05"
+                }
+                ],
+    "page": 2,
+    "total_results": 432,
+    "dates": {
+        "maximum": "2018-09-27",
+        "minimum": "2018-09-04"
+    },
+    "total_pages": 22
+}

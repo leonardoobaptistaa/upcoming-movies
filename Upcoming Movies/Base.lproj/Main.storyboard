@@ -102,16 +102,18 @@
                         <subviews>
                             <imageView contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="pNf-C1-PLU">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <accessibility key="accessibilityConfiguration" identifier="poster" label="poster">
+                                    <accessibilityTraits key="traits" button="YES" image="YES" allowsDirectInteraction="YES"/>
+                                    <bool key="isElement" value="YES"/>
+                                </accessibility>
                                 <gestureRecognizers/>
-                                <connections>
-                                    <outletCollection property="gestureRecognizers" destination="vBf-gq-kD6" appends="YES" id="IV8-Ls-rVS"/>
-                                </connections>
                             </imageView>
                             <view opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Qah-op-ciR">
                                 <rect key="frame" x="0.0" y="333.5" width="375" height="333.5"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="INFO HERE" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="svC-EK-1G4">
                                         <rect key="frame" x="8" y="16" width="359" height="21"/>
+                                        <accessibility key="accessibilityConfiguration" identifier="movie name" label="Movie Name"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="21" id="i2W-Nc-c6V"/>
                                         </constraints>
@@ -127,6 +129,10 @@
                                     </label>
                                 </subviews>
                                 <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.75" colorSpace="custom" customColorSpace="sRGB"/>
+                                <accessibility key="accessibilityConfiguration" identifier="view infos" label="Informations">
+                                    <accessibilityTraits key="traits" button="YES" allowsDirectInteraction="YES"/>
+                                    <bool key="isElement" value="YES"/>
+                                </accessibility>
                                 <constraints>
                                     <constraint firstAttribute="trailing" secondItem="svC-EK-1G4" secondAttribute="trailing" constant="8" id="0em-Ig-qYq"/>
                                     <constraint firstItem="DeQ-nv-EG8" firstAttribute="leading" secondItem="Qah-op-ciR" secondAttribute="leading" constant="8" id="AgB-Bi-FYm"/>
@@ -139,6 +145,10 @@
                             </view>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <accessibility key="accessibilityConfiguration" identifier="movie detail" label="movie detail">
+                            <accessibilityTraits key="traits" button="YES"/>
+                            <bool key="isElement" value="NO"/>
+                        </accessibility>
                         <gestureRecognizers/>
                         <constraints>
                             <constraint firstAttribute="bottom" secondItem="Qah-op-ciR" secondAttribute="bottom" id="Evn-CJ-Yff"/>

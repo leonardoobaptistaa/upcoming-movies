@@ -84,16 +84,34 @@ class MoviesListViewController: UIViewController, UITableViewDelegate, UITableVi
         })
     }
     
-    func tableView(_ tableView: UITableView, willDisplay cell: UITableViewCell, forRowAt indexPath: IndexPath) {
-        let triggerIndex = movies.count - 2
-        guard triggerIndex > 0 else {
-            return
-        }
+    func scrollViewDidScroll(_ scrollView: UIScrollView) {
+        let offsetY = scrollView.contentOffset.y
+        let contentHeight = scrollView.contentSize.height
         
-        if (triggerIndex == indexPath.row) {
+        if offsetY > contentHeight - scrollView.frame.size.height {
             fetchMovies()
         }
     }
+    
+//    func scrollViewDidEndDragging(_ scrollView: UIScrollView, willDecelerate decelerate: Bool) {
+//        let currentOffset = scrollView.contentOffset.y
+//        let maximumOffset = scrollView.contentSize.height - scrollView.frame.size.height
+//
+//        if maximumOffset - currentOffset <= 10.0 {
+//            fetchMovies()
+//        }
+//    }
+    
+//    func tableView(_ tableView: UITableView, willDisplay cell: UITableViewCell, forRowAt indexPath: IndexPath) {
+//        let triggerIndex = movies.count - 2
+//        guard triggerIndex > 0 else {
+//            return
+//        }
+//
+//        if (triggerIndex == indexPath.row) {
+//            fetchMovies()
+//        }
+//    }
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         tableView.deselectRow(at: indexPath, animated: true)

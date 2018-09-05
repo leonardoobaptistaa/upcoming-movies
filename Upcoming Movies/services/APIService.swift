@@ -11,7 +11,8 @@ import AlamofireObjectMapper
 
 class APIService: NSObject {
     let API_KEY = "1f54bd990f1cdfb230adb312546d765d"
-    let apiUrl = "https://api.themoviedb.org/3/"
+//    let apiUrl = "https://api.themoviedb.org/3/"
+    let apiUrl = "http://localhost:8080/"
     
     func defaultParams() -> Parameters {
         return [ "api_key": API_KEY ]
@@ -33,6 +34,10 @@ class APIService: NSObject {
             if let movies = response.result.value {
                 success(movies)
             }
+            else {
+                print(response.result)
+            }
+            
         }
     }
 }

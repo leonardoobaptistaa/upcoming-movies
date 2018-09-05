@@ -43,11 +43,13 @@ Third-party libraries
 ### Tests
 
 * [Nimble](https://github.com/Quick/Nimble) - Nimble provides better tests readability using more expressive asserts.
-* [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - OHHTTPStubs stubs request so we don't depend on internet to run unit tests.
+* [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - OHHTTPStubs stubs request so we don't depend on the internet to run unit tests.
+* [Swifter](https://github.com/httpswift/swifter) - Tiny http server engine written in Swift. It is used to provide fake JSON responses, so we can test UI without depending on the internet.
 
 Nexts steps / Improvements
 --------------------------
 
-* Load genres list dynamically from API.  
+* Improve user experience on slow networks by adding a loading indicator when it's loading more movies.
 * On MovieDetailViewController, set viewInfo's size accordingly to lblInfos text size. 
+* Load genres list dynamically from API.  
 * Add Localization strings to support more languages.  
