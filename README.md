@@ -56,6 +56,8 @@ Nexts steps / Improvements
 --------------------------
 
 * Improve user experience on slow networks by adding a loading indicator when it's loading more movies.
+* Improve user experience by dealing with internet and API errors.
 * On MovieDetailViewController, set viewInfo's size accordingly to lblInfos text size. 
 * Load genres list dynamically from API.  
 * Add Localization strings to support more languages.  
+* Add search (the optional item).
