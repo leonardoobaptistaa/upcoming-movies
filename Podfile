@@ -1,22 +1,21 @@
-# Uncomment the next line to define a global platform for your project
 platform :ios, '11.4'
 
 target 'Upcoming Movies' do
-  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for Upcoming Movies
   pod 'Alamofire', '~> 4.7'
   pod 'AlamofireObjectMapper', '~> 5.0'
+  pod 'AlamofireImage', '~> 3.3'
 
   target 'Upcoming MoviesTests' do
     inherit! :search_paths
-    # Pods for testing
+    pod 'Nimble', '~> 7.2.0'
+    pod 'OHHTTPStubs/Swift'
   end
 
   target 'Upcoming MoviesUITests' do
     inherit! :search_paths
-    # Pods for testing
+    pod 'Nimble', '~> 7.2.0'
+    pod 'Swifter', '~> 1.4.1'
   end
-
 end
