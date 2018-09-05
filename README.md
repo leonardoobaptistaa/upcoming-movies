@@ -4,7 +4,9 @@ Upcoming Movies
 This app list upcoming movies and provide details after selecting one.
 
 Screenshots
-----------
+-----------
+
+ADD SCREENSHOTS
 
 How to run
 ----------
@@ -15,20 +17,19 @@ How to run
 
 ### Build
 
-Open Xcode workspace file `Upcoming Movies.xcworkspace` and cmd + b.
+Open Xcode workspace file `Upcoming Movies.xcworkspace` and `cmd + b`.
 
-ps: This project have Cocoapods but all pods are commited, so you don't need to do a `pod install`
-
+ps: This project use Cocoapods but all pods are commited, so you don't need to do a `pod install`
 
 ### Run
 
-cmd + r
+`cmd + r`
 
 Test
 ----
 
 This project have unit and ui testing.  
-ADD INSTRUCTIONS HERE
+To run all tests press `cmd + u`.
 
 Third-party libraries
 ---------------------
