@@ -11,15 +11,14 @@ import AlamofireObjectMapper
 
 class APIService: NSObject {
     let API_KEY = "1f54bd990f1cdfb230adb312546d765d"
-//    let apiUrl = "https://api.themoviedb.org/3/"
-    let apiUrl = "http://localhost:8080/"
+    static var apiUrl = "https://api.themoviedb.org/3/"
     
     func defaultParams() -> Parameters {
         return [ "api_key": API_KEY ]
     }
     
     func upcomingMoviesURL() -> String {
-        return apiUrl + "movie/upcoming"
+        return APIService.apiUrl + "movie/upcoming"
     }
     
     func upcomingMoviesDataRequest(page: Int = 1) -> DataRequest {
