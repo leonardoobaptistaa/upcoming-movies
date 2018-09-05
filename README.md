@@ -6,7 +6,13 @@ This app list upcoming movies and provide details after selecting one.
 Screenshots
 -----------
 
-ADD SCREENSHOTS
+### Portrait
+
+<img src="screenshots/portrait01.png" alt="drawing" width="200"/> <img src="screenshots/portrait02.png" alt="drawing" width="200"/> <img src="screenshots/portrait03.png" alt="drawing" width="200"/>
+
+### Landscape
+
+<img src="screenshots/landscape01.png" alt="drawing" width="200"/> <img src="screenshots/landscape02.png" alt="drawing" width="200"/> <img src="screenshots/landscape03.png" alt="drawing" width="200"/>
 
 How to run
 ----------
